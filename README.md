@@ -9,4 +9,13 @@ Slide :
 - LSTM Slide Slide/LSTM and GRU.pptx
 - Transfer Learning Slide Slide/Transfer Learning.pptx
 
+## Natch
+Code :
+- Transfer Learning: Transfer Learning/Layer Manipulation.ipynb
+- Transformer: Transformer/Transformer.ipynb
+
+Slide :
+- Optimizer.pptx
+- Transformer.pptx
+
 --Test branching
