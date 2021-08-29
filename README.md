@@ -13,10 +13,12 @@ Slide :
 Code :
 - Transfer Learning: Transfer Learning/Layer Manipulation.ipynb
 - Transformer: Transformer/Transformer.ipynb
+- UNET: UNET/UNET.ipynb
 
 Slide :
 - Optimizer.pptx
 - Transformer.pptx
+- UNET.pptx
 
 --Test branching
 --Moodang Test Push
