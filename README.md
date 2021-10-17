@@ -3,7 +3,8 @@
 - Implementation Transformer on Pytorch -- Moodang
 - Implementation Transformer on TensorFlow -- Natch
 - Using ViT on HuggingFace -- Moo
-
+## 3 Oct 2021
+- Transformer theory -- Moodang and his support
 
 
 # This is Table of content
