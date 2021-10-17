@@ -7,7 +7,7 @@
 
 
 # This is Table of content
-Specify owner and contents:
+Specified owner and owner's contents:
 ## Moo Tanatorn
 Code :
 - LSTM Notebook LSTM/Timeseries.ipynb
