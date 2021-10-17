@@ -1,3 +1,11 @@
+# Meeting Log
+# 17 Oct 2021
+- Implementation Transformer on Pytorch -- Moodang
+- Implementation Transformer on TensorFlow -- Natch
+- Using ViT on HuggingFace -- Moo
+
+
+
 # This is Table of content
 Specify owner and contents:
 ## Moo Tanatorn
